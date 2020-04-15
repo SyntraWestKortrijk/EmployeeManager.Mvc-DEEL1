@@ -9,6 +9,5 @@ namespace EmployeeManager.Mvc.Models
     {
         public int CountryID { get; set; }
         public string Name { get; set; }
-
     }
 }
